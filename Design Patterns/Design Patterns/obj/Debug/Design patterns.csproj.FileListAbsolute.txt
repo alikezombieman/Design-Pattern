@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Design Patterns\Design Patterns - Miroslav Ivanov\Design patterns\bin\Debug\Design patterns.exe.config
+C:\Users\User\Desktop\Design Patterns\Design Patterns - Miroslav Ivanov\Design patterns\bin\Debug\Design patterns.exe
+C:\Users\User\Desktop\Design Patterns\Design Patterns - Miroslav Ivanov\Design patterns\bin\Debug\Design patterns.pdb
+C:\Users\User\Desktop\Design Patterns\Design Patterns - Miroslav Ivanov\Design patterns\obj\Debug\Design patterns.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Design Patterns\Design Patterns - Miroslav Ivanov\Design patterns\obj\Debug\Design patterns.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Design Patterns\Design Patterns - Miroslav Ivanov\Design patterns\obj\Debug\Design patterns.exe
+C:\Users\User\Desktop\Design Patterns\Design Patterns - Miroslav Ivanov\Design patterns\obj\Debug\Design patterns.pdb
